@@ -63,9 +63,18 @@ python main.py
 
 ### Running the Code
 
+
+
+https://github.com/OmkarPathak1/Billboard-to-Spotify-Playlist-Converter/assets/92076273/493a3846-5515-405b-b731-6157d667fdb8
+
+
 ```<iframe width="560" height="315" src="https://www.youtube.com/embed/4YIcug77s9E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>```
 
 ### Tkinter GUI
+
+
+https://github.com/OmkarPathak1/Billboard-to-Spotify-Playlist-Converter/assets/92076273/6d1c3ce9-d3fe-43d0-bf72-b7cca20147d7
+
 
 ```<iframe width="560" height="315" src="https://www.youtube.com/embed/aeERxNbrunk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>```
 
