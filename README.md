@@ -63,13 +63,11 @@ python main.py
 
 ### Running the Code
 
-https://youtu.be/4YIcug77s9E
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YIcug77s9E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Tkinter GUI
 
-https://youtu.be/aeERxNbrunk
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aeERxNbrunk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Contributing
 
