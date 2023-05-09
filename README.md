@@ -10,7 +10,7 @@ This Python script converts Billboard Top 100 chart to a Spotify playlist using 
   - [Running the Code](#running-the-code)
   - [Tkinter GUI](#tkinter-gui)
 - [Video Demos](#video-demos)
-- [Contributing](#contributing)
+- [Contributors](#contributors)
 - [License](#license)
 
 ## Project Description
